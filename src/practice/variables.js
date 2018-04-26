@@ -26,7 +26,7 @@ let location = 'Lagos, Nigeria'
 */
 
 // code for `faveBook` goes here
-const faveBook = ['Gone With the Wind', 'The Lord of the Rings', 'The Catcher in the Rye', 'Little Women']
+let faveBook = 'The Lord of the Rings';
 /*
   Problem create a variable called `faveBand` 
   LIKE above, you may want to consider if this is some data about yourself that could change.
@@ -34,14 +34,14 @@ const faveBook = ['Gone With the Wind', 'The Lord of the Rings', 'The Catcher in
 */
 
 // code for `faveBand` goes here
-const faveBand = ['AC/DC', 'The Beatles'];
+let faveBand = 'AC/DC';
 /*
   Problem create a variable called `faveFood` 
   LIKE above, you may want to consider if this is some data about yourself that could change.
 */
 
 // code for `faveFood` goes here
-const faveFood = ['Spagetti', 'Chinese rice'];
+let faveFood = 'Spagetti';
 module.exports = {
   name,
   age,
